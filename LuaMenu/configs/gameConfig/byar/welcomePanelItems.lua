@@ -13,7 +13,13 @@ local welcomePanelItems = {
     {
         Header = "Welcome to Beyond All Reason",
         Text = "Welcome back Commander. We hope you are ready for epic Singleplayer and Multiplayer battles. Check out our Discord and join the community!\n",
-        NoPulse = true,
+    },
+
+    {
+        Header = "Legion Player Survey",
+        Text = "Please take 5 minutes to share your impressions of the Legion tier 1 combat aircraft.",
+        Url = "https://docs.google.com/forms/d/1bC6ESAQWV_6TWgG9WOEESW3AvHKnTUX3vtQsLz3lMc0/",
+        UrlText = "Take Survey",
     },
 
     {
